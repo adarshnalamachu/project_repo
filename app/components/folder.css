@@ -1,0 +1,7 @@
+.folder:nth-child(odd) {
+    background: #eeedff;
+  }
+
+  .folder:nth-child(even) {
+    background: #fff9e5;
+  }
